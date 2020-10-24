@@ -442,7 +442,7 @@
 
         <div class="section-header">
           <h3>Kontak kami</h3>
-          <p>Untuk informasi pembanguan dan donasi bisa manghubungi panitia di :
+          <p>Untuk informasi mengenaik industri kreatif di Cilacap bisa manghubungi kami di :
 
 </p>
         </div>
@@ -452,8 +452,8 @@
           <div class="col-md-4">
             <div class="contact-address">
               <i class="ion-ios-location-outline"></i>
-              <h3>Alamat Kantor</h3>
-              <address>Jalan...... rt....rw....</address>
+              <h3>Alamat Sekretariat</h3>
+              <address>Jalan Dokter Soetomo No.1, Karangcengis, Sidakaya, Kec. Cilacap Sel., Kabupaten Cilacap, Jawa Tengah 53212</address>
             </div>
           </div>
 
@@ -469,7 +469,7 @@
             <div class="contact-email">
               <i class="ion-ios-email-outline"></i>
               <h3>Telp Kantor</h3>
-              <p><a href="mailto:info@example.com">0274 068958656</a></p>
+              <p><a href="mailto:info@example.com">(0282) 533329</a></p>
             </div>
           </div>
 
