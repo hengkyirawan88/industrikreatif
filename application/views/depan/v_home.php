@@ -17,7 +17,7 @@
               <div class="carousel-content">
                 <h2>SIGIKREACAP</h2>
                 <p>"Sistem Informasi Geografis Industri Kreatif Kabupaten Cilacap"</p>
-                <a href="http://industrikreatif.xyz/login_ikm_cilacap" class="btn-get-started scrollto">LOGIN APLIKASI</a>
+                <a href="http://industrikreatif.xyz/ikm" class="btn-get-started scrollto">PROFIL INDUSTRI KREATIF</a>
               </div>
             </div>
           </div>
@@ -28,7 +28,7 @@
               <div class="carousel-content">
                 <h2>Industri Kreatif online database</h2>
                 <p>"Update data lengkap Industri Kreatif berupa profil lengkap Industri Kreatif"</p>
-                <a href="http://industrikreatif.xyz/login_ikm_cilacap" class="btn-get-started scrollto">LOGIN APLIKASI</a>
+                <a href="http://industrikreatif.xyz/ikm" class="btn-get-started scrollto">PROFIL INDUSTRI KREATIF</a>
               </div>
             </div>
           </div>
@@ -39,7 +39,7 @@
               <div class="carousel-content">
                 <h2>Peta persebaran Industri Kreatif</h2>
                 <p>"Kami sajikan informasi berbasis peta persebaran Industri Kreatif se Kabupaten Cilacap"</p>
-                <a href="http://industrikreatif.xyz/login_ikm_cilacap" class="btn-get-started scrollto">LOGIN APLIKASI</a>
+                <a href="http://industrikreatif.xyz/ikm" class="btn-get-started scrollto">PROFIL INDUSTRI KREATIF</a>
               </div>
             </div>sta
           </div>
@@ -50,7 +50,7 @@
               <div class="carousel-content">
                 <h2>Maju Industri Kreatif nya, sejahtera Rakyatnya</h2>
                 <p>Industri Kreatif adalah salah satu penopang roda perekonomian berbasis masyarakat. Keberadaan nya sangat penting guna menunjang kemakmuran dan kesejahteraan masyarakat"”</p>
-                <a href="http://industrikreatif.xyz/login_ikm_cilacap" class="btn-get-started scrollto">LOGIN APLIKASI</a>
+                <a href="http://industrikreatif.xyz/ikm" class="btn-get-started scrollto">PROFIL INDUSTRI KREATIF</a>
               </div>
             </div>
           </div>
@@ -124,7 +124,7 @@
         <div class="row about-cols">
           <header class="section-header">
          
-          <h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PETA SEBARAN INDUSTRI KECIL & MENENGAH KAB. CILACAP</h3>
+          <h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PETA SEBARAN INDUSTRI KREATIF KABUPATEN CILACAP</h3>
          <!--  <p>Berikut ini adalah tampilan informasi berbasis geografis lokasi Industri Kecil dan Menengah di Kabupaten Cilacap.  </p> -->
         </header>
 

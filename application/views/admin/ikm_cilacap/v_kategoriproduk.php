@@ -19,7 +19,7 @@
         <br>
         <div class="box box-primary">
           <div class="box-header">
-            <h3 class="box-title">Kelola Kategori</h3>
+            <h3 class="box-title">Kelola Kategori Produk</h3>
           </div>
 
                   <div class="box-body">
@@ -27,7 +27,7 @@
                         <thead>
                             <tr>
                               <th wid_kategoriprodukth="1%">No</th>
-                               <th>Nama Kategori</th>
+                               <th>Nama Kategori Produk</th>
 <!--                               <th> IKM Kerajinan</th>
                               <th> IKM Kuliner</th>
                               <th> IKM Fashion</th>

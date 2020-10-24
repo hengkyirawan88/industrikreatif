@@ -276,26 +276,16 @@
               </li>
               <!-- Menu Body -->
               <li class="user-body">
-                <div class="row">
-                  <div class="col-xs-4 text-center">
-                    <a href="<?php echo base_url(); ?>assets/#">Followers</a>
-                  </div>
-                  <div class="col-xs-4 text-center">
-                    <a href="<?php echo base_url(); ?>assets/#">Sales</a>
-                  </div>
-                  <div class="col-xs-4 text-center">
-                    <a href="<?php echo base_url(); ?>assets/#">Friends</a>
-                  </div>
-                </div>
+                 
                 <!-- /.row -->
               </li>
               <!-- Menu Footer-->
               <li class="user-footer">
                 <div class="pull-left">
-                  <a href="<?php echo base_url(); ?>assets/#" class="btn btn-default btn-flat">Profile</a>
-                </div>
+                  <a href="<?php echo base_url(); ?>assets/#" class="btn btn-default btn-flat"></a>
+                </div> 
                 <div class="pull-right">
-                  <a href="<?php echo base_url(); ?>assets/#" class="btn btn-default btn-flat">Sign out</a>
+                  <a href="<?php echo base_url(); ?>" class="btn btn-default btn-flat">Sign out</a>
                 </div>
               </li>
             </ul>
